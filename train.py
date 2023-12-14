@@ -6,7 +6,7 @@
 @contact: caixia_dong@xjtu.edu.cn
 @software: MedAI
 @file: train.py
-@time: 2022/7/22 14:49
+@time: 2023/7/24 15:28
 @version:
 @desc:
 '''
